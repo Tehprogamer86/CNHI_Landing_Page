@@ -28,10 +28,6 @@ body {
   margin-bottom: 30px;
 }
 
-.row {
-  justify-content: center;
-}
-
 .card-img-top {
   border-bottom: 1px solid silver;
 }
